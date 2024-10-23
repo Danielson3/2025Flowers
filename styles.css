@@ -2,5 +2,11 @@ body{background-color:darkgray;}
 h1 { color:black;}
 H2 {color:#0d4141;}
 h1{text-align:center;}
-h3{text-align:center;}
-h1,h3{background-color:  grey;margin: 0%;}
+h3,h2{text-align:center;}
+h1,h3{background-color:  grey;margin: 0%; padding:10px}
+
+div{border:3px solid black;}
+div{padding-right:30px;}
+div{display:inline-block; }
+div{margin-right: 30px;}
+div{align:"center";}
