@@ -1,6 +1,6 @@
 body{background-color:darkgray;}
 h1 { color:black;}
 H2 {color:#0d4141;}
-div{text-align:center;}
-
-div{background-color: gray;padding: 5%;}
+h1{text-align:center;}
+h3{text-align:center;}
+h1,h3{background-color:  grey;margin: 0%;}
